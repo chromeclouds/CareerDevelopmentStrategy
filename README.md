@@ -1,4 +1,9 @@
-# 🎯 Career Roadmap – [JeffreyHill](https://www.linkedin.com/in/jeffrey-hill-57b67411a/) [ChromeStorms](https://discord.gg/rnsKBCaNfD)
+# Jeffrey Hill
+## [LinkedIn](https://www.linkedin.com/in/jeffrey-hill-57b67411a/) 
+## [Discord](https://discord.gg/rnsKBCaNfD)
+
+
+# 🎯 Career Roadmap 
 
 Welcome! This README outlines my personal career goals and long-term development plan. As a developer focused on immersive experiences, defense simulation tools, and AI-enhanced XR design, this document serves as both a roadmap and accountability tool. It combines SMART goal planning and a forward-looking career strategy map. This was made as part of my Full Sail coursework.  I decided to make it a public file in case anyone would like to use it as a template. 
 
