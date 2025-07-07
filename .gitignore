@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+venv/
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# System files
+*.swp
+*.swo
+*.tmp
+
+# Output or build folders
+dist/
+build/
+
+# Backup files
+*~
+*.bak
+*.old
+
+# Ignore personal config
+.env
+*.secret
