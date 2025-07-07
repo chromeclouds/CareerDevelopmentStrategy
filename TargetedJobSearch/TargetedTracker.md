@@ -1,7 +1,7 @@
 # 🎯 Career Job Search Tracker & Targeted Employer List
 
 This repository helps track job applications and maintain a curated list of companies aligned with my career goals in VR/AR, AI systems, drone interfaces, and game development.  
-Built as part of my long-term roadmap: [View Career Map →](CareerDevelopmentStrategy/README.md)
+Built as part of my long-term roadmap: [View Career Map →](../README.md)
 
 ---
 
