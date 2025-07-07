@@ -1,6 +1,5 @@
 # Jeffrey Hill
-## [LinkedIn](https://www.linkedin.com/in/jeffrey-hill-57b67411a/) 
-## [Discord](https://discord.gg/rnsKBCaNfD)
+## [LinkedIn](https://www.linkedin.com/in/jeffrey-hill-57b67411a/) | [Discord](https://discord.gg/rnsKBCaNfD)
 
 
 # 🎯 Career Roadmap 
